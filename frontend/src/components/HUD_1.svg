@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="600"
+   viewBox="0 0 1024 600"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="HUD_1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:clip-to-page="true"
+     inkscape:zoom="0.7357125"
+     inkscape:cx="528.05953"
+     inkscape:cy="327.57361"
+     inkscape:window-width="1512"
+     inkscape:window-height="945"
+     inkscape:window-x="488"
+     inkscape:window-y="1477"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g67"
+     showguides="true"
+     inkscape:lockguides="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="512"
+       originy="300"
+       spacingx="22"
+       spacingy="22"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="8"
+       enabled="true"
+       visible="true"
+       dotted="false" />
+    <sodipodi:guide
+       position="0,600"
+       orientation="0,1024"
+       id="guide24"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="1024,600"
+       orientation="600,0"
+       id="guide25"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="1024,0"
+       orientation="0,-1024"
+       id="guide26"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-600,0"
+       id="guide27"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowWideHeavy"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, heavy arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path3" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-1065.0787 : 300 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="2184.7185 : 300 : 1"
+       inkscape:persp3d-origin="559.81986 : 200 : 1"
+       id="perspective26" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="layout"
+     inkscape:highlight-color="#000000">
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       d="M 688,586 V 124"
+       id="path27"
+       sodipodi:nodetypes="cc"
+       inkscape:label="vSplit1" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       d="M 6,124 H 1018"
+       id="path24"
+       inkscape:label="hSplit1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Misc"
+     inkscape:highlight-color="#ffff00">
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       d="M 28,498 V 146 h 220 v 198"
+       id="path31"
+       inkscape:label="room" />
+  </g>
+  <g
+     inkscape:label="Elec"
+     inkscape:groupmode="layer"
+     id="Elec"
+     style="display:inline"
+     inkscape:highlight-color="#ff0000">
+    <g
+       id="lamp">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-dasharray:none"
+         id="rect17"
+         width="22"
+         height="22"
+         x="50"
+         y="168" />
+      <rect
+         style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-dasharray:none"
+         id="rect18"
+         width="22"
+         height="22"
+         x="204"
+         y="168" />
+      <rect
+         style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-dasharray:none"
+         id="rect19"
+         width="22"
+         height="22"
+         x="127"
+         y="168" />
+      <rect
+         style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect20"
+         width="176"
+         height="11"
+         x="50"
+         y="179" />
+    </g>
+    <g
+       id="g67"
+       inkscape:label="fan">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect55"
+         width="44"
+         height="44"
+         x="314"
+         y="190" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 314,190 44,11"
+         id="path60" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 358,223 -44,11"
+         id="path62" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="path63"
+         cx="336"
+         cy="212"
+         r="15" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 336,197 v 30"
+         id="path66" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 321,212 h 30"
+         id="path67" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="path68"
+         cx="336"
+         cy="212"
+         r="4" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="M 314,212 H 226"
+         id="path69" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-dasharray:none;paint-order:markers fill stroke;marker-end:url(#ArrowWideHeavy)"
+         d="M 358,212 H 468"
+         id="path70" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Hydr"
+     inkscape:highlight-color="#0000ff">
+    <rect
+       style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-dasharray:none"
+       id="rect6"
+       width="88"
+       height="154"
+       x="534"
+       y="388"
+       inkscape:label="wTank" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       id="rect31"
+       width="88"
+       height="110"
+       x="94"
+       y="410"
+       ry="0"
+       inkscape:label="gTank" />
+    <g
+       id="pump"
+       inkscape:label="pump">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="M 275.55833,509.38733 292,478"
+         id="path52" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="M 308.44167,509.38733 292,478"
+         id="path54" />
+      <rect
+         style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-dasharray:none"
+         id="rect1"
+         width="44"
+         height="44"
+         x="270"
+         y="476"
+         inkscape:label="rPump" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="path39-92"
+         cx="292"
+         cy="498"
+         r="20"
+         inkscape:label="cPump" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-dasharray:none"
+       d="m 314,498 h 66"
+       id="path8"
+       inkscape:label="piPumpIn1" />
+    <circle
+       style="display:inline;fill:#ffffff;fill-opacity:0.99;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path39"
+       cx="380"
+       cy="498"
+       r="4"
+       inkscape:label="piPumpIn2" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-dasharray:none"
+       d="M 292,476 V 454"
+       id="path16"
+       inkscape:label="piPumpOut1" />
+    <circle
+       style="fill:#ffffff;fill-opacity:0.99;stroke:#ffffff;stroke-width:1.6;stroke-linecap:square;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path39-6"
+       cx="292"
+       cy="454"
+       r="3.2"
+       inkscape:label="piPumpOut2" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-dasharray:none"
+       d="m 248,432 v 22 h 44"
+       id="path17"
+       inkscape:label="piValve1In" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-dasharray:none"
+       d="m 292,454 h 44 v -22"
+       id="path10"
+       inkscape:label="piValve2In" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-dasharray:none"
+       d="m 402,432 h -22 v 66"
+       id="path6"
+       inkscape:label="piValve3In" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-dasharray:none"
+       d="M 402,520 H 380 V 498"
+       id="path7"
+       inkscape:label="piValve4In" />
+    <g
+       id="g39"
+       inkscape:label="piValve1Out">
+      <path
+         style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-dasharray:none"
+         d="M 248,388 V 366 H 182"
+         id="path13"
+         inkscape:label="piValve1Out1" />
+      <path
+         style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-dasharray:none"
+         id="path15"
+         sodipodi:type="arc"
+         sodipodi:cx="171"
+         sodipodi:cy="366"
+         sodipodi:rx="11"
+         sodipodi:ry="11"
+         sodipodi:start="3.1415927"
+         sodipodi:end="0"
+         sodipodi:arc-type="arc"
+         d="m 160,366 a 11,11 0 0 1 11,-11 11,11 0 0 1 11,11"
+         sodipodi:open="true"
+         inkscape:label="piValve1Out2" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-dasharray:none"
+       d="M 336,388 V 366 H 534"
+       id="path14"
+       inkscape:label="piValve2Out1" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-dasharray:none"
+       id="path15-5"
+       sodipodi:type="arc"
+       sodipodi:cx="545"
+       sodipodi:cy="366"
+       sodipodi:rx="11"
+       sodipodi:ry="11"
+       sodipodi:start="3.1415927"
+       sodipodi:end="0"
+       sodipodi:arc-type="arc"
+       d="m 534,366 a 11,11 0 0 1 11,-11 11,11 0 0 1 11,11"
+       inkscape:label="piValve2Out2"
+       sodipodi:open="true" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-dasharray:none"
+       d="m 446,432 h 44 v 132 h 88 v -22"
+       id="path12"
+       inkscape:label="piValve3Out" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-dasharray:none"
+       d="m 446,520 h 22 v 44 H 138 v -44"
+       id="path11"
+       inkscape:label="piValve4Out" />
+    <g
+       id="g41"
+       inkscape:label="valve4">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-dasharray:none"
+         id="rect5"
+         width="44"
+         height="44"
+         x="402"
+         y="498"
+         inkscape:label="valve41" />
+      <circle
+         style="fill:#ffffff;fill-opacity:0.99;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="path39-55"
+         cx="424"
+         cy="520"
+         r="4"
+         inkscape:label="valve42" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 424,495 v 50"
+         id="path40"
+         inkscape:label="valve43" />
+    </g>
+    <g
+       id="g42"
+       inkscape:label="valve3">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-dasharray:none"
+         id="rect4"
+         width="44"
+         height="44"
+         x="402"
+         y="410"
+         inkscape:label="valve31" />
+      <circle
+         style="fill:#ffffff;fill-opacity:0.99;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="path39-5"
+         cx="424"
+         cy="432"
+         r="4"
+         inkscape:label="valve32" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 424,407 v 50"
+         id="path40-0"
+         inkscape:label="valve33" />
+    </g>
+    <g
+       id="g43"
+       inkscape:label="valve2">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-dasharray:none"
+         id="rect3"
+         width="44"
+         height="44"
+         x="314"
+         y="388"
+         inkscape:label="valve21" />
+      <circle
+         style="fill:#ffffff;fill-opacity:0.99;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="path39-2"
+         cx="336"
+         cy="410"
+         r="4"
+         inkscape:label="valve22" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="M 361,410 H 311"
+         id="path40-9"
+         inkscape:label="valve23" />
+    </g>
+    <g
+       id="g44"
+       inkscape:label="valve1">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.0148515;stroke:#ffffff;stroke-width:2;stroke-dasharray:none"
+         id="rect2"
+         width="44"
+         height="44"
+         x="226"
+         y="388"
+         inkscape:label="valve1" />
+      <circle
+         style="fill:#ffffff;fill-opacity:0.99;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="path39-9"
+         cx="248"
+         cy="410"
+         r="4"
+         inkscape:label="valve12" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="M 273,410 H 223"
+         id="path40-90"
+         inkscape:label="valve13" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="M 28,36 50,30 V 42 Z"
+       id="path50" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="M 28,36 6,42 V 30 Z"
+       id="idta"
+       inkscape:label="idta" />
+  </g>
+</svg>

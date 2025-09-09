@@ -1,0 +1,109 @@
+Growroom Starter Guide: Raspberry Pi Setup & SSH Access
+========================================================
+
+Requirements
+------------
+- Raspberry Pi 3 (or compatible)
+- 8GB+ microSD card
+- macOS computer
+- Power + network (Ethernet or Wi-Fi)
+- Raspberry Pi Imager: https://www.raspberrypi.com/software/
+
+------------------------------------------------------------
+
+Step 1: Flash Raspberry Pi OS Lite (64-bit)
+-------------------------------------------
+1. Open Raspberry Pi Imager on macOS.
+2. Select OS:
+   → Raspberry Pi OS Lite (64-bit) [no desktop]
+3. Select your SD card.
+4. Open Advanced Options (gear icon):
+   - Set hostname: bioPi
+   - Enable SSH
+     • Use password authentication OR
+     • Paste your public SSH key
+   - Set username: fabmin
+   - Set password: [your password]
+   - Configure Wi-Fi
+   - Set locale and timezone
+5. Save and click "Write" to flash the card.
+6. Insert the SD card into the Pi and power it on.
+
+------------------------------------------------------------
+
+Step 2: Find the Pi's IP Address
+-------------------------------
+Option 1 (on Pi):
+    hostname -I
+
+Option 2:
+    Check your router for a device named "bioPi"
+
+Example:
+    192.168.0.231
+
+------------------------------------------------------------
+
+Step 3: SSH into the Pi from Mac
+-------------------------------
+On your Mac terminal:
+
+    ssh fabmin@192.168.0.231
+
+If prompted with:
+    Are you sure you want to continue connecting (yes/no)?
+
+Type:
+    yes
+
+Then enter the password for user "fabmin".
+
+✅ You are now connected to the Pi terminal.
+
+------------------------------------------------------------
+
+Step 4: Set Up SSH Key Authentication (optional)
+------------------------------------------------
+1. Check if you already have an SSH key:
+
+    ls ~/.ssh/id_ed25519.pub
+
+2. If not, generate one:
+
+    ssh-keygen -t ed25519 -C "your_email@example.com"
+
+    [Press Enter through all prompts]
+
+3. Copy your public key to the Pi:
+
+    ssh-copy-id fabmin@192.168.0.231
+
+4. Test it:
+
+    ssh fabmin@192.168.0.231
+
+→ You should now log in without entering a password.
+
+------------------------------------------------------------
+
+Step 5: Final System Prep on Pi
+-------------------------------
+After logging into the Pi:
+
+Update and install dependencies:
+
+    sudo apt update
+    sudo apt full-upgrade -y
+    sudo apt install git python3-pip python3-venv i2c-tools -y
+
+Enable I²C:
+
+    sudo raspi-config
+    [Interface Options → I2C → Enable]
+
+Reboot the system:
+
+    sudo reboot
+
+------------------------------------------------------------
+
